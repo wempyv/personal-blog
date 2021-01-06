@@ -1,0 +1,15 @@
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/hugo-tania"]
+	path = themes/hugo-tania
+	url = https://github.com/WingLim/hugo-tania
+[submodule "themes/cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "themes/sk1"]
+	path = themes/sk1
+	url = https://github.com/J-Siu/hugo-theme-sk1
