@@ -5,7 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-  description: Untuk Novita <strong>♥</strong>
 - type: text
   name: date
   label: date
