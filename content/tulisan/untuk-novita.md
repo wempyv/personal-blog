@@ -1,6 +1,5 @@
 +++
 date = nil
-draft = true
 title = "Untuk Novita ♥"
 
 +++
